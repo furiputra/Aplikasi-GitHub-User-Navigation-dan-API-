@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Submission_GitHub</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="setting">setting</string>
+</resources>
